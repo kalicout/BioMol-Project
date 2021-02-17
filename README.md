@@ -29,7 +29,7 @@ Annotate the genes included in the contig and to functionally characterize the p
 - **blast search** to identify the putative proteins (more sensitive if protein level instead of nucleotides)
 - **homology-based tools** with the annotations of  a closely related species (web-server/local)
   - https://bio.tools/t?page=1&q=%27Homology-based%20gene%20prediction%27&sort=score
-  - https://ibb.co/vqymcSd
+  - https://ibb.co/kxSt6K8
 
 Discuss the performance of the different methods. Can you guess to which species does
 your contig correspond?
