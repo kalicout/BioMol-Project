@@ -35,7 +35,7 @@ We will obtain gene predictions using the two types of methods and we will compa
   - GENESCAN: http://argonaute.mit.edu/GENSCAN.html
   
 - **homology-based tools** with the annotations of  a closely related species (web-server/local)
-<!--Gene predictions are based on alignments from known proteins (usually) from other genomes.-->
+  <!--Gene predictions are based on alignments from known proteins (usually) from other genomes.-->
 
   - blast search to identify the putative proteins (more sensitive if protein level instead of nucleotides)
 
