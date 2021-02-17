@@ -22,11 +22,12 @@ fetcher --url="https://github.com/dantekali/BioMol-Project/blob/main/Group11_con
 Annotate the genes included in the contig and to functionally characterize the predicted proteins.
 
 - **ab-initio tools** to obtain a first prediction (select closest species in model)
-
   - https://bio.tools/t?page=1&q=%27Ab-initio%20gene%20prediction%27&sort=score
   - https://ibb.co/bdznRS4
 
 - **blast search** to identify the putative proteins (more sensitive if protein level instead of nucleotides)
+  - https://blast.ncbi.nlm.nih.gov/Blast.cgi?PROGRAM=blastp&PAGE_TYPE=BlastSearch&LINK_LOC=blasthome
+
 - **homology-based tools** with the annotations of  a closely related species (web-server/local)
   - https://bio.tools/t?page=1&q=%27Homology-based%20gene%20prediction%27&sort=score
   - https://ibb.co/kxSt6K8
