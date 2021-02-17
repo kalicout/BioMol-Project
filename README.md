@@ -22,8 +22,10 @@ fetcher --url="https://github.com/dantekali/BioMol-Project/blob/main/Group11_con
 Annotate the genes included in the contig and to functionally characterize the predicted proteins.
 
 - **ab-initio tools** to obtain a first prediction (select closest species in model)
-  - https://bio.tools/t?page=1&q=%27Ab-initio%20gene%20prediction%27&sort=score
-  - https://ibb.co/bdznRS4
+  <!--Ab-initio methods: they use several elements in the genomic sequence (suchas donor and acceptor splice sites, branch site, initiation and termination codons)and codon usage to obtain a model based on a training set.-->
+  - GeneID  prediction: https://genome.crg.cat/software/geneid/geneid.html
+  - FGENESH: http://www.softberry.com/berry.phtml?topic=fgenesh&group=programs&subgroup=gfindYou
+  - GENESCAN: http://argonaute.mit.edu/GENSCAN.html
 
 - **blast search** to identify the putative proteins (more sensitive if protein level instead of nucleotides)
   - https://blast.ncbi.nlm.nih.gov/Blast.cgi?PROGRAM=blastp&PAGE_TYPE=BlastSearch&LINK_LOC=blasthome
