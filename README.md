@@ -24,8 +24,8 @@ Annotate the genes included in the contig and to functionally characterize the p
 - **ab-initio tools** to obtain a first prediction (select closest species in model)
 
   - https://bio.tools/t?page=1&q=%27Ab-initio%20gene%20prediction%27&sort=score
-- https://ibb.co/bdznRS4
-  
+  - https://ibb.co/bdznRS4
+
 - **blast search** to identify the putative proteins (more sensitive if protein level instead of nucleotides)
 - **homology-based tools** with the annotations of  a closely related species (web-server/local)
   - https://bio.tools/t?page=1&q=%27Homology-based%20gene%20prediction%27&sort=score
