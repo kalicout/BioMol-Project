@@ -27,7 +27,7 @@ We will obtain gene predictions using the two types of methods and we will compa
   <!--Ab-initio methods: they use several elements in the genomic sequence (suchas donor and acceptor splice sites, branch site, initiation and termination codons)and codon usage to obtain a model based on a training set.-->
   
   - GeneID  prediction: https://genome.crg.cat/software/geneid/geneid.html
-  
+
   > We use the "Group11_contig_194888_195063.fa" file to make a gene prediction using GeneID, this will result in the generation of a gff file called "GeneID.gff" containing in this case 4 predicted genes.
   
   - FGENESH: http://www.softberry.com/berry.phtml?topic=fgenesh&group=programs&subgroup=gfindYou
