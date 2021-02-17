@@ -24,12 +24,12 @@ Annotate the genes included in the contig and to functionally characterize the p
 - **ab-initio tools** to obtain a first prediction (select closest species in model)
 
   - https://bio.tools/t?page=1&q=%27Ab-initio%20gene%20prediction%27&sort=score
-- ![image-20210217140723125](C:\Users\Dante\AppData\Roaming\Typora\typora-user-images\image-20210217140723125.png)
+- https://ibb.co/bdznRS4
   
 - **blast search** to identify the putative proteins (more sensitive if protein level instead of nucleotides)
 - **homology-based tools** with the annotations of  a closely related species (web-server/local)
   - https://bio.tools/t?page=1&q=%27Homology-based%20gene%20prediction%27&sort=score
-  - ![image-20210217140902275](C:\Users\Dante\AppData\Roaming\Typora\typora-user-images\image-20210217140902275.png)
+  - https://ibb.co/vqymcSd
 
 Discuss the performance of the different methods. Can you guess to which species does
 your contig correspond?
