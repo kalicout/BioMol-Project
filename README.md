@@ -42,7 +42,7 @@ We will obtain gene predictions using the two types of methods and we will compa
   - blast search to identify the putative proteins (more sensitive if protein level instead of nucleotides)
   - https://blast.ncbi.nlm.nih.gov/Blast.cgi?PROGRAM=blastp&PAGE_TYPE=BlastSearch&LINK_LOC=blasthome
   
-  > We use the "Group11_contig_194888_195063.fa" file to make a gene prediction using GeneID, this will result in the generation of a gff file called "GeneID.gff" containing in this case 4 predicted genes.
+  > Then we transform the translated nucleotide sequence "Group11_contig_194888_195063.fa" to protein with blastx, in this step we generate a "tioblast.fa" containing the putative proteins.
 
 - **sequences comparison** Compare them with the annotated protein in Ensembl database
 
