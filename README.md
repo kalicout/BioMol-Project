@@ -10,7 +10,14 @@ The main objective of the project is to **annotate the genes** included in the c
 
 Download assigned contig from a nematode species.
 
-**Group11_contig_194888_195063.fa**
+```bash
+# Using npm package manager we're going to install github-files-fetcher
+# so we can download particular files from the github repo.
+npm install -g github-files-fetcher
+
+# Download contig sequence from repo
+fetcher --url="https://github.com/dantekali/BioMol-Project/blob/main/Group11_contig_194888_195063.fa"  --out="~/Desktop/Project"
+```
 
 Annotate the genes included in the contig and to functionally characterize the predicted proteins.
 
