@@ -25,15 +25,24 @@ We will obtain gene predictions using the two types of methods and we will compa
 
 - **ab-initio tools** to obtain a first prediction (select closest species in model)
   <!--Ab-initio methods: they use several elements in the genomic sequence (suchas donor and acceptor splice sites, branch site, initiation and termination codons)and codon usage to obtain a model based on a training set.-->
+  
   - GeneID  prediction: https://genome.crg.cat/software/geneid/geneid.html
+  
+  > We use the "Group11_contig_194888_195063.fa" file to make a gene prediction using GeneID, this will result in the generation of a gff file called "GeneID.gff" containing in this case 4 predicted genes.
+  
   - FGENESH: http://www.softberry.com/berry.phtml?topic=fgenesh&group=programs&subgroup=gfindYou
+  
   - GENESCAN: http://argonaute.mit.edu/GENSCAN.html
+  
 - **homology-based tools** with the annotations of  a closely related species (web-server/local)
 <!--Gene predictions are based on alignments from known proteins (usually) from other genomes.-->
-- blast search to identify the putative proteins (more sensitive if protein level instead of nucleotides)
+
+  - blast search to identify the putative proteins (more sensitive if protein level instead of nucleotides)
   - https://blast.ncbi.nlm.nih.gov/Blast.cgi?PROGRAM=blastp&PAGE_TYPE=BlastSearch&LINK_LOC=blasthome
   - Run *blastx* of the unspliced sequence against the *nr database*. Since this is a huge database, this time we will run blast on the ncbi server https://blast.ncbi.nlm.nih.gov/Blast.cgi
+  
 - **sequences comparison** Compare them with the annotated protein in Ensembl database
+
   - To obtain the multiple alignment we will use the simple MSA option from T-coffee software (http://tcoffee.crg.cat/). Which software do you think is more accurate?
 
 #### Functionally characterization of the predicted proteins
