@@ -34,12 +34,11 @@ We will obtain gene predictions using the two types of methods and we will compa
 
 - **homology-based tools** with the annotations of  a closely related species (web-server/local)
 <!--Gene predictions are based on alignments from known proteins (usually) from other genomes.-->
-  - https://bio.tools/t?page=1&q=%27Homology-based%20gene%20prediction%27&sort=score
-  - https://ibb.co/kxSt6K8
+  - Run *blastx* of the unspliced sequence against the *nr database*. Since this is a huge database, this time we will run blast on the ncbi server https://blast.ncbi.nlm.nih.gov/Blast.cgi
 
 #### Functionally characterization of the predicted proteins
 
-Functional annotation is an essential step in omics data analysis. It is defined as the process of attaching biological information to gene and protein sequences(such as those predicted using Ab-initio and Homology-based methods) and describing functional groups based on similarities.
+Functional annotation is an essential step in omics data analysis. It is defined as the process of attaching biological information to gene and protein sequences (such as those predicted using Ab-initio and Homology-based methods) and describing functional groups based on similarities.
 
 
 
