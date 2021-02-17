@@ -1,0 +1,27 @@
+﻿
+## gff-version 2
+## date Wed Feb 17 15:31:09 2021
+## source-version: geneid v 1.2 -- geneid@imim.es
+# Sequence Contig - Length = 10375 bps
+# Optimal Gene Structure. 4 genes. Score = 194.70 
+# Gene 1 (Forward). 2 exons. 56 aa. Score = 0.62 
+Contig  geneid_v1.2     Internal        1       160      0.62   +       0       Contig_1
+Contig  geneid_v1.2     Terminal        1526    1533     0.00   +       2       Contig_1
+# Gene 2 (Reverse). 4 exons. 329 aa. Score = 65.88 
+Contig  geneid_v1.2     Terminal        2396    2516     5.22   -       1       Contig_2
+Contig  geneid_v1.2     Internal        2567    2696    14.12   -       2       Contig_2
+Contig  geneid_v1.2     Internal        2748    3336    45.54   -       0       Contig_2
+Contig  geneid_v1.2     First   3383    3529     0.99   -       0       Contig_2
+# Gene 3 (Reverse). 7 exons. 784 aa. Score = 101.75 
+Contig  geneid_v1.2     Terminal        3957    4095    -0.02   -       1       Contig_3
+Contig  geneid_v1.2     Internal        4140    4242    10.75   -       2       Contig_3
+Contig  geneid_v1.2     Internal        4292    4613    14.36   -       0       Contig_3
+Contig  geneid_v1.2     Internal        4665    5097    13.92   -       1       Contig_3
+Contig  geneid_v1.2     Internal        5143    5345     8.66   -       0       Contig_3
+Contig  geneid_v1.2     Internal        5391    6447    55.01   -       1       Contig_3
+Contig  geneid_v1.2     First   9179    9273    -0.93   -       0       Contig_3
+# Gene 4 (Forward). 3 exons. 156 aa. Score = 26.46 
+Contig  geneid_v1.2     First   9612    9785     7.00   +       0       Contig_4
+Contig  geneid_v1.2     Internal        9828    9971     8.39   +       0       Contig_4
+Contig  geneid_v1.2     Internal        10157   10306   11.08   +       0       Contig_4
+
