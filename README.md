@@ -31,9 +31,13 @@ We will obtain gene predictions using the two types of methods and we will compa
   > We use the "Group11_contig_194888_195063.fa" file to make a gene prediction using GeneID, this will result in the generation of a gff file called "GeneID.gff" containing in this case 4 predicted genes.
   
   - FGENESH: http://www.softberry.com/berry.phtml?topic=fgenesh&group=programs&subgroup=gfindYou
-  
+
+  > We use the "Group11_contig_194888_195063.fa" file to make a gene prediction using GeneID, this will result in the generation of a gff file called "GeneID.gff" containing in this case 4 predicted genes.
+
   - GENESCAN: http://argonaute.mit.edu/GENSCAN.html
-  
+
+  > We use the "Group11_contig_194888_195063.fa" file to make a gene prediction using GeneID, this will result in the generation of a gff file called "GeneID.gff" containing in this case 4 predicted genes.
+
 - **homology-based tools** with the annotations of  a closely related species (web-server/local)
   <!--Gene predictions are based on alignments from known proteins (usually) from other genomes.-->
 
