@@ -1,7 +1,16 @@
-# BioMol-Project
+# Molecular Biology
+
+### Computational analysis Project
+
+*Dante Aviñó, Miguel Borge, Pol Segura*
+
+------
+
 The main objective of the project is to **annotate the genes** included in the contig and to **functionally characterize** the predicted proteins.
 
 Download assigned contig from a nematode species.
+
+**Group11_contig_194888_195063.fa**
 
 Annotate the genes included in the contig and to functionally characterize the predicted proteins.
 
