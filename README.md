@@ -1,8 +1,8 @@
 # Molecular Biology
 
-### Computational analysis Project
+### Computational analysis Project - Group 11
 
-*GROUP 11 - Dante Aviñó, Miguel Borge, Pol Segura*
+Dante Aviñó, Miguel Borge, Pol Segura*
 
 ------
 
