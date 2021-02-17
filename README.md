@@ -31,6 +31,7 @@ Annotate the genes included in the contig and to functionally characterize the p
   - https://blast.ncbi.nlm.nih.gov/Blast.cgi?PROGRAM=blastp&PAGE_TYPE=BlastSearch&LINK_LOC=blasthome
 
 - **homology-based tools** with the annotations of  a closely related species (web-server/local)
+<!--Gene predictions are based on alignments from known proteins (usually) from other genomes.-->
   - https://bio.tools/t?page=1&q=%27Homology-based%20gene%20prediction%27&sort=score
   - https://ibb.co/kxSt6K8
 
