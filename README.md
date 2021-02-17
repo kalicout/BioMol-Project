@@ -2,7 +2,7 @@
 
 ### Computational analysis Project - Group 11
 
-Dante Aviñó, Miguel Borge, Pol Segura*
+Dante Aviñó, Miguel Borge, Pol Segura
 
 ------
 
