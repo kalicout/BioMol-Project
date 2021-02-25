@@ -18,6 +18,9 @@ npm install -g github-files-fetcher
 # Download contig sequence from repo
 fetcher --url="https://github.com/dantekali/BioMol-Project/blob/main/Group11_contig_194888_195063.fa"  --out="~/Desktop/Project"
 ```
+#### First aproach to our data
+
+Since our data is a DNA sequence, it is unreadable at first sight so we don't know even what organism does it belong to. To get a first insight at it we can use blast, specifficly blastx(From DNA to AA). Entering the link https://blast.ncbi.nlm.nih.gov/Blast.cgi we click on blastx and select our fasta(.fa) contig.
 
 #### Genes annotation included in the contig
 
